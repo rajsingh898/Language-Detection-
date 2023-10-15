@@ -9,5 +9,7 @@ The self-made dataset utilised in this includes the following languages.
 4) Malayalam <br>
 5) Punjabi <br>
 6) Gujrati <br>
-7) Marathi <br>This dataset contains 2 attributes Text and Language
+7) Marathi
+
+This dataset contains 2 attributes Text and Language
 
